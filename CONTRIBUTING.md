@@ -1,10 +1,10 @@
-# Правила контриб'ютингу
+# Contributing Guidelines
 
-Ми раді вітати нових дослідників у спільноті **Sentry Point Cyber Intelligence**! Якщо ви хочете поділитися своїм дослідженням або покращити існуючі скрипти, дотримуйтесь цих простих правил:
+We are excited to welcome new researchers to the **Sentry Point Cyber Intelligence** community! If you want to share your research or improve existing scripts, please follow these simple rules:
 
-1. **Форкніть репозиторій** та створіть окрему гілку для вашої теми (наприклад, `feature/new-osint-guide` або `bugfix/bash-script-fix`).
-2. **Дотримуйтесь структури:** Технічні звіти мають містити опис загрози, методологію, індикатори компрометації (IoC) та методи захисту.
-3. **Форматування:** Використовуйте чистий Markdown. Усі підозрілі або шкідливі домени/IP-адреси мають бути деактивовані за допомогою квадратних дужок (наприклад, `malicious[.]com` замість прямого посилання).
-4. **Створіть Pull Request (PR)** та детально опишіть, які матеріали ви додаєте.
+1. **Fork the repository** and create a separate branch for your topic (e.g., `feature/new-osint-guide` or `bugfix/bash-script-fix`).
+2. **Follow the structure:** Technical reports must include a threat description, methodology, Indicators of Compromise (IoCs), and mitigation strategies.
+3. **Formatting:** Use clean Markdown. All suspicious or malicious domains/IP addresses must be defanged using square brackets (e.g., `malicious[.]com` instead of a direct link) to prevent accidental clicks.
+4. **Create a Pull Request (PR)** and describe the materials you are adding in detail.
 
-Разом ми робимо кіберпростір безпечнішим!
+Together, we make cyberspace a safer place!
