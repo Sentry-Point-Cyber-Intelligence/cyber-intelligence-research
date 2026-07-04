@@ -1,21 +1,21 @@
 # Sentry Point Cyber Intelligence 🎯
 
-Ласкаво просимо до офіційного дослідницького репозиторію спільноти **Sentry Point Cyber Intelligence**. Ми займаємося кіберрозвідкою, дослідженням загроз (Threat Intelligence), захистом систем (Blue Teaming) та аналізом вразливостей.
+Welcome to the official research repository of the **Sentry Point Cyber Intelligence** community. We are dedicated to threat intelligence, cyber reconnaissance (OSINT), system defense (Blue Teaming), and vulnerability research.
 
-Цей репозиторій створено для публікації технічних звітів, результатів OSINT-досліджень, аналітики шкідливого програмного забезпечення та інструментів автоматизації захисту.
+This repository is designed to publish technical reports, open-source intelligence findings, malware analysis, and security automation tools.
 
-## 📁 Структура репозиторію
+## 📁 Repository Structure
 
-* `📁 Threat-Intelligence/` — Аналіз тактик зловмисників (TTPs), фішингових кампаній та індикатори компрометації (IoCs).
-* `📁 Blue-Teaming-Tools/` — Bash/Python скрипти для моніторингу, аудиту конфігурацій та аналізу логів.
-* `📁 CVE-Research/` — Глибокий аналіз відомих вразливостей та методів їх усунення.
-* `📁 OSINT-Guides/` — Методології збору інформації з відкритих джерел.
+* `📁 Threat-Intelligence/` — Analysis of adversary tactics (TTPs), phishing campaigns, and Indicators of Compromise (IoCs).
+* `📁 Blue-Teaming-Tools/` — Bash/Python scripts for system monitoring, configuration auditing, and log analysis.
+* `📁 CVE-Research/` — In-depth analysis of known vulnerabilities and mitigation strategies.
+* `📁 OSINT-Guides/` — Methodologies for open-source intelligence gathering.
 
-## ⚠️ Юридичний дисклеймер (Disclaimer)
+## ⚠️ Legal Disclaimer
 
-Усі матеріали, звіти та інструменти, опубліковані в цьому репозиторію, надаються виключно в освітніх цілях, для проведення легітимних досліджень та покращення рівня кіберзахисту. Спільнота **Sentry Point Cyber Intelligence** не несе відповідальності за будь-яке неправомірне використання наданої інформації або збитки, завдані внаслідок застосування описаних методик. Дотримуйтесь законодавства та етичних норм.
+All materials, reports, and tools published in this repository are provided solely for educational purposes, legitimate research, and enhancing cybersecurity defenses. The **Sentry Point Cyber Intelligence** community assumes no liability for any misuse of the provided information or damages resulting from the application of the described methodologies. Comply with local laws and ethical standards.
 
-## 🤝 Контриб'ютинг та безпека
+## 🤝 Contributing & Security
 
-Ми відкриті до співпраці з іншими ресерчерами. Перед тим як запропонувати зміни, ознайомтеся з файлом `CONTRIBUTING.md`.
-Якщо ви виявили вразливість у наших інструментах, будь ласка, дотримуйтесь нашої політики у файлі `SECURITY.md`.
+We welcome collaboration with other researchers. Before submitting any changes, please review our `CONTRIBUTING.md` guidelines.
+If you discover a vulnerability in our tools, please follow the security policy outlined in `SECURITY.md`.
