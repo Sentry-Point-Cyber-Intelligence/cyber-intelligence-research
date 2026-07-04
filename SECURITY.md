@@ -1,15 +1,15 @@
-# Політика безпеки (Security Policy)
+# Security Policy
 
-## Підтримувані версії
+## Supported Versions
 
-Ми активно підтримуємо та оновлюємо лише останню версію наших інструментів та скриптів, опублікованих у гілці `main`.
+We actively maintain and update only the latest version of our tools and scripts published in the `main` branch.
 
-## Повідомлення про вразливості
+## Reporting a Vulnerability
 
-Безпека є нашим головним пріоритетом. Якщо ви виявили вразливість у наших скриптах, конфігураціях або дослідженнях, будь ласка, **не створюйте публічний Issue**.
+Security is our top priority. If you discover a vulnerability in our scripts, configurations, or research, please **do not create a public Issue**.
 
-Замість цього надішліть детальний опис загрози приватно:
-* Зв'яжіться з адміністрацією організації Sentry Point Cyber Intelligence через офіційні канали спільноти.
-* Вкажіть кроки для відтворення (PoC), можливий вплив та варіанти виправлення.
+Instead, report the threat privately:
+* Contact the administration of Sentry Point Cyber Intelligence through our official community channels.
+* Provide steps to reproduce (PoC), potential impact, and suggested remediation steps.
 
-Ми опрацюємо ваше повідомлення протягом 48 годин і скоординуємо процес виправлення. Дякуємо за допомогу в забезпеченні безпеки спільноти!
+We will review your report within 48 hours and coordinate the fix. Thank you for helping keep our community secure!
